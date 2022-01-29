@@ -1,4 +1,4 @@
-# Your StdLib Slack App
+# Your StdLib Slack App patch2
 
 Welcome to your StdLib Slack Source Code! This Source Code is the fastest way to
 get a production-ready Slack app running in your channel. All you have to do is
